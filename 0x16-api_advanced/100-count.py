@@ -1,4 +1,5 @@
-t api"""
+#!/usr/bin/python3
+""" raddit api"""
 
 from collections import Counter
 import requests
